@@ -1,4 +1,4 @@
-# Clinical-operations-analysis for Hospital Operations
+# ST Meridian Clinical Intelligence
 ##### Analysis of hospital operations (LOS, readmissions, cost, capacity) using a 2023–2024 clinical dataset, highlighting patient flow inefficiencies.
 
 ## Executive summary:
